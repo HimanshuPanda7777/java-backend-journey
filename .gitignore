@@ -1,0 +1,9 @@
+# Ignore Java bytecode
+*.class
+
+# Ignore build folders
+bin/
+out/
+
+# Ignore VS Code settings (optional)
+.vscode/
